@@ -30,5 +30,5 @@ If you ever face online fraud, act quickly:
 
 ---
 
-## 🚀 Final Thought
+## 🗣️ Final Thought
 A little awareness can prevent big problems. Always stay alert, think before you click, and keep your information safe.
