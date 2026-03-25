@@ -1,15 +1,9 @@
-📱 Responsible Social Media Use – Checklist
-✅ Do’s
-- Think before you post — ensure content is respectful and appropriate
-Maintain a professional profile (clear photo and bio)
-Protect your privacy — adjust settings and limit personal info
-Verify information before sharing to avoid misinformation
-Use social media for learning and networking
+## 📊 Responsible Social Media Checklist
 
-
-❌ Don’ts
-Don’t share sensitive personal information (phone, address, passwords)
-Don’t post offensive or inappropriate content
-Don’t engage in online arguments or trolling
-Don’t click on suspicious links or unknown downloads
-Don’t misuse others’ content (avoid plagiarism or posting without permission)
+| Do’s                                   | Don’ts                                  |
+|----------------------------------------|------------------------------------------|
+| Think before posting                   | Share personal information               |
+| Maintain professional profile          | Post inappropriate content               |
+| Protect privacy settings               | Engage in online fights                  |
+| Verify information                     | Click suspicious links                   |
+| Use for learning & networking          | Copy or misuse others’ content           |
