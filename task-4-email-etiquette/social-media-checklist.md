@@ -1,6 +1,6 @@
 📱 Responsible Social Media Use – Checklist
 ✅ Do’s
-Think before you post — ensure content is respectful and appropriate
+- Think before you post — ensure content is respectful and appropriate
 Maintain a professional profile (clear photo and bio)
 Protect your privacy — adjust settings and limit personal info
 Verify information before sharing to avoid misinformation
