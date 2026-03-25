@@ -9,5 +9,5 @@ It covers:
 - Professional online presence
 - Email etiquette
 
-The design is simple, colorful, and easy to understand for students.
+The design is simple, colorful, and easy to understand for students.<br>
 The design is a bit altered form of an template which I have customised based on my experience and learning.
