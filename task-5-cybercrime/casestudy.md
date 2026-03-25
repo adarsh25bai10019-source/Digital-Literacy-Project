@@ -24,3 +24,8 @@ UPI (Unified Payments Interface) fraud is a common cybercrime where attackers tr
 Never enter your UPI PIN to receive money. Always verify before approving any request.
 
 
+## 📷 A workflow of how a UPI fraud happens 
+
+<p align="center">
+  <img src="task-5-cybercrime/UPI fraud.jpg" width="400"/>
+</p>
