@@ -27,5 +27,5 @@ Never enter your UPI PIN to receive money. Always verify before approving any re
 ## 📷 A workflow of how a UPI fraud happens 
 
 <p align="center">
-  <img src="task-5-cybercrime/UPI fraud.jpg" width="400"/>
+  <img src="UPI%20fraud.jpg" width="400"/>
 </p>
